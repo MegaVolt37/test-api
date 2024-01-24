@@ -1,5 +1,5 @@
 # test
-
+Node v20
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
@@ -27,4 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
->>>>>>> 729851a (feat: init test task)
